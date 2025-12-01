@@ -1,4 +1,7 @@
 # proyecto_1dam
+
+<img src="CalendarioEscolar2025.jpg.webp" width="250px" alt="Calendario escolar">
+
 🌟 ¡Hola! Soy Diego Rubio
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) 💻 Apasionado por la tecnología, la programación y la creación de soluciones prácticas y bien estructuradas.
